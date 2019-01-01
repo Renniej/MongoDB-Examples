@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-examples",
+  "version": "1.0.0",
+  "description": "MongoDB learning stuff",
+  "main": "connection.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renniej/MongoDB-Examples.git"
+  },
+  "author": "rennie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renniej/MongoDB-Examples/issues"
+  },
+  "homepage": "https://github.com/Renniej/MongoDB-Examples#readme",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.4.1"
+  }
+}
